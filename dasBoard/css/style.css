@@ -1,0 +1,54 @@
+/* Gray color #555759 */
+/* Blue color #f4f4f6  #009ae1 */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.navbar-brand {
+  font-family: 'Roboto', sans-serif;
+}
+.navbar-brand {
+  font-weight: bold;
+  font-size: x-large;
+  color: white !important;
+}
+
+.navbar-default {
+  background-color: #008080;
+}
+a {
+  color: white;
+}
+.input-group-btn button {
+  color: #555759;
+}
+span.icon-bar {
+  background-color: white !important;
+}
+.spacing {
+  letter-spacing: 1px !important;
+}
+.pull-left, .pull-right,
+ .panel-green > .panel-heading,
+  .fa-arrow-circle-right,
+   #side-menu {
+  color: #555759 !important;
+}
+
+.panel-primary a div.panel-footer span,
+ .panel-primary a div.panel-footer span i {
+  color: #337ab7 !important;
+}
+  .panel-green > a:hover {
+    color: #555759 !important;
+}
+.fa, .huge,
+ .huge + div {
+  color: white;
+}
+
+.fa-search {
+  color: #333;
+}
