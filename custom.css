@@ -1,0 +1,75 @@
+/*nav*/
+
+nav {
+	background-color: #555759
+	 'Roboto', sans-serif;
+	
+}
+
+
+
+@media (max-width:786px) {
+.navbar-brand>img {
+    display: block;
+    width: 65%;
+}
+}
+
+
+
+
+.container-fluid {
+   padding-right: 0px; 
+     padding-left: 25px; 
+	 background-color: #555759;
+	 color: white; 
+	 height: 75px; 
+	
+}
+
+.navbar-default .navbar-nav>li>a {
+    color:#10b7ab; 
+}
+
+ .nav>li>a:hover {
+    text-decoration: none;
+    background-color: #eee;
+ }
+
+
+
+.navbar-default {
+   background-color: #555759;
+ border-color:#555759;
+}
+
+
+.navbar-nav>li>a {
+    padding-top: 28px;
+    padding-bottom: 15px;
+}
+
+
+
+#login {
+	top: 42px; 
+	left: -5px; 
+}
+
+
+/*login*/
+
+#wrapper h1 {
+    font-size: 29px;
+    padding-bottom: 12px; 
+}
+
+
+/*Form*/
+
+h3 {
+    color: #555759;
+    text-align: center;
+    font-size: 12px; 
+    padding-bottom: 30px; 
+}
